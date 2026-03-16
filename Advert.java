@@ -3,6 +3,8 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
+/* Доска объявлений */
+
 public class Advert {
     private String name;
     private int price;
